@@ -15,9 +15,13 @@
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://github.com/rahatur" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/rahatur" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀I am a certified software engineer with 12+ years of experiences. I have been developing wide range of web, eCommerce and dashboard sites, APIs and mobile applications using C#, Asp.net MVC, Web API, EF, Azure, Dotnet Core, SQL Server, Blazor, Html, JavaScript, jquery, React, Bootstrap, ajax etc.
+<p align="left">🚀I am a certified software engineer with 12+ years of experiences. I have been developing wide range of web, eCommerce and dashboard sites, APIs and mobile applications using C#, Asp.net MVC, Web API, EF, Azure, Dotnet Core, SQL Server, Blazor, Html, JavaScript, jquery, React, Bootstrap, ajax etc.
 
-Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization. Have been working for startup companies and small/medium businesses.</h3>**
+Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization. Have been working for startup companies and small/medium businesses.</p>
+
+<p>
+  My core competency lies in complete end-end management of web applications, web services and back-end services for mobile applications, web site security, ecommerce standards, APIs development and integration. I am seeking opportunities to build web/eCommerce sites, mobile application APIs, back-end development, web and API security from the ground up for you or your business.
+</p>
 
 **<h3 align="left">Rapid Fire</h3>**
 
