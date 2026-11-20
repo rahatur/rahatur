@@ -21,7 +21,7 @@
   </a>  
 </p>
 
-<p align="left">🚀I am a certified software engineer with 12+ years of experiences. I have been developing wide range of web, eCommerce and dashboard sites, APIs and mobile applications using C#, Asp.net MVC, Web API, EF, Azure, Dotnet Core, SQL Server, Blazor, Html, JavaScript, jquery, React, Bootstrap, ajax etc.
+<p align="left">🚀I am a certified Software Engineer with 19 years of experiences. I have been developing wide range of web, eCommerce and dashboard sites, APIs,  mobile applications and AI services using C#, Python, Asp.net MVC, Web API, EF, Azure, Dotnet Core, Docker, SQL Server, Blazor, Html, JavaScript, jquery, React, Bootstrap, ajax etc.
 
 Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization. Have been working for startup companies and small/medium businesses.</p>
 
@@ -31,9 +31,9 @@ Skilled in both front-end and back-end technologies, with a keen eye for user ex
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new cash flow management platform using C#, Asp.net MVC, React, Jquery, MS SQL**
-- 🌱 I'm currently learning: **📚 Exploring Power BI, Angular**
-- 💬 Ask me about: **💡 Asp.net MVC, C#, Software Architecture, JavaScript and RESTful APIs**
+- 💼 I'm currently working on: **💻 Scaling my AI team and adopting industry standard AI tools and processes**
+- 🌱 I'm currently learning: **📚 Exploring Power BI, AIDLC, Spec driven development**
+- 💬 Ask me about: **💡 Software Architecture, Design patterns, Event Driven Development, Asp.net MVC, C# and APIs**
 
  **<h3 align="left">Skills</h3>**
 
@@ -55,7 +55,3 @@ Skilled in both front-end and back-end technologies, with a keen eye for user ex
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahatur&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://buymeacoffee.com/rahatur" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a></p>
